@@ -2,4 +2,4 @@
 
 [Patika.dev](https://www.patika.dev/tr)
 
-java ile öğrenci bilgi sistemi.
+Java ile öğrenci bilgi sistemi.
